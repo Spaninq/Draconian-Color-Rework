@@ -42,6 +42,7 @@ Skills: [None]
 Resists: [rCorr] rMut (to make Xom more bearable), Clarity
 Breath: a single Cloud of Seething Chaos (what could possibly go wrong?)
 This particular color is more of an idea that might make CK more viable/fun and can easily be removed if the people wish.]
+^This is what the Fairy race currently in X-Crawl represents, never mind.
 
 Anything in [] is up for debate, and number values may (probably) need tweaking.
 
