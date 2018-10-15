@@ -18,7 +18,7 @@ Pale | Steam
 First, I'm going to suggest changing Black Draconian's color to Blue, to match how storm dragons are depicted.
 
 Next, the new Black Draconian would be the Shadow Draconian equivalent.
-Skills: +2 Necromancy, +2 Transformations, +2 Translocations (reflects a draconian closer to shadows)
+Skills: +2 Necromancy, +2 Stealth, +2 Hexes (to +1) (latter two reflect a draconian that's more attuned to shadows)
 Resists: rN+, Nightstalker 1
 Breath: [Bolt of draining (that's what shadow dragons have), alternatively breath out a cloud of either negative energy or miasma that has damage nerfed, Spectral fog is probably too OP to consider]
 In addition, Draconians that worship a good god when they reach XL 7 cannot become Black Draconians.
